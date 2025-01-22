@@ -75,7 +75,9 @@ Este método cambia cíclicamente entre los diferentes estilos de cámara:
 
 ## IMPORTANTE!
 
-### La implementac# Camera 2 Script
+### La implementacion de la camara en primera persona no la tengo implementada desde este script. El que gestiona la camara en primera persona es "camera2"
+
+# Camera 2 Script
 
 Este script de Unity controla una cámara en un juego, permitiendo que siga al jugador y responda a los movimientos del ratón para rotar la vista en los ejes X y Y.
 
@@ -129,6 +131,6 @@ Este método se llama después de que se hayan procesado todos los objetos en la
 - La cámara rota de acuerdo con el movimiento del ratón en los ejes X y Y, permitiendo una vista libre y ajustable.
 - La rotación en el eje Y está limitada para evitar giros indeseados (por ejemplo, ver el suelo o el cielo de manera excesiva).
 - La posición de la cámara se actualiza para mantener una distancia constante del jugador, independientemente de la rotación.
-ion de la camara en primera persona no la tengo implementada desde este script. El que gestiona la camara en primera persona es "camera2"
+
 
 
